@@ -1,4 +1,4 @@
-# ⚔️ Raid Guild Proposal #1
+# ⚔️ Save Dao Proposal #1
 
 ###### Project
 
@@ -25,13 +25,13 @@ DeFi Zap is planning to release their "unzap" feature in the next two weeks and 
 
 No code required
 
-### Raid Party (Team)
+### Save Dao (Team)
 
-Hammad Jutt / Project Management
+David / Project Management
 
-Ven Gist / Design Lead
+Baba / Design Lead
 
-Eric Chung / Designer
+Mando / Developer
 
 ## Time to Complete
 
