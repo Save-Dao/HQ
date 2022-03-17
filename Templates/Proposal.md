@@ -1,4 +1,4 @@
-# ⚔️ Raid Guild Proposal #1
+# ⚔️ Save Dao Proposal #1
 
 ###### Project
 
@@ -33,7 +33,7 @@ This is a quick description of the work being down
 
 ETA: 3-4 weeks after Design Phase
 
-### Finder (Who Brought This Proposal to the Guild)
+### Finder (Who Brought This Proposal to the Dao)
 Name / Role
 
 ### Raid Party (Team)
