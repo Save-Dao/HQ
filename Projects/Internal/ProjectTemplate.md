@@ -18,7 +18,7 @@ This is a breakdown of why you believe the Guild should spend resources to build
 
 Not at this time.
 
-## Raid Party Skills Needed
+## Save Campaign Skills Needed
 
 - Design
 - Content
