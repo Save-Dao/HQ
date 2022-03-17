@@ -1,4 +1,4 @@
-# :crossed_swords: Raid Guild HQ
+# :crossed_swords: Save Dao HQ
                                       
 
               _____                   _____                   _____                   _____          
@@ -25,17 +25,16 @@
 
 `raidguild.eth`
 
-- [:japanese_castle: Daohaus (Pledging / Membership)](https://daohaus.club/dao/v2/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d)
-- [:japanese_ogre: Pokemol (Proposals / Voting)](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d)
-- [:bird: Twitter](https://twitter.com/RaidGuild)
-- [:speech_balloon: Discord](https://discord.gg/WFYvtw4)
-- [:spider_web: Website](https://raidguild.org)
-- [:book: Handbook](https://handbook.raidguild.org/)
-- [:memo: Blog](https://scroll.raidguild.org/)
+- [:japanese_castle: Daohaus (Pledging / Membership)](https://app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7)
+- [:bird: Twitter](https://twitter.com/adbongogroupllc)
+- [:speech_balloon: Discord](https://discord.gg/G2sXhQCpGg)
+- [:spider_web: Website](https://adbongo.io)
+- [:book: Handbook](https://www.zerowasteadvocacy.com)
+- [:memo: Medium]()
 
-# WTF is the Raid Guild?
+# WTF is the Save Dao?
 
-The Raid Guild is a dao for builders to form Raid Parties and team up on epic boss fights (open source web3 projects). Development, Design, Marketing, Product, Cryptoeconomics.
+The Save Dao is a dao for builders to form Save Campaigns and team up on epic boss fights (open source web3 projects). Development, Design, Marketing, Product, Cryptoeconomics.
 
 ## Manifesto
 
@@ -44,25 +43,25 @@ The Raid Guild is a dao for builders to form Raid Parties and team up on epic bo
 
 ## How we work
 
-### Raid Parties
+### Save Dao
 
-A Raid Party is a small agile team built from members of the Guild. Raid Parties can be formed to tackle both internal and external projects.
+A Save Campaign is a small agile team built from members of the Dao. Save Campaign can be formed to tackle both internal and external projects.
 
 ### External Projects
 
-External projects can hire the Raid Guild to help them. External projects are taxed 10% which goes back to the Guild Bank. Funds in the Guild Bank can then be deployed to internal projects.
+External projects can hire the Raid Guild to help them. External projects are taxed 10% which goes back to the Dao Bank. Funds in the Dao Bank can then be deployed to internal projects.
 
 ### Internal Projects
 
-Internal projects are our own ideas from the Guild. Can be funded directly by the Guild or an external funder.
+Internal projects are our own ideas from the Dao. Can be funded directly by the Dao or an external funder.
 
 ## Meetings & Cadence
 
 **Async Catchups**
 
-Guild Members can interface asynchronously at any time in the Raid Guild Discord.
+Guild Members can interface asynchronously at any time in the Save Dao Discord.
 
-[Raid Guild Tavern on Discord](https://discord.gg/Uz9p7rq)
+[Save Dao Tavern on Discord](https://discord.gg/PZv2MwpX6c)
 
 **Biweekly Standups**
 
@@ -74,9 +73,9 @@ The guild shall have bi-weekly calls for active members to stay engaged.
 - Pitch New Projects (Internal or External)
 
 **Hackathons & Global Events**
-In-person Guild Meetups
+In-person Dao Meetups
 
-**Annual Guild Retreats**
+**Annual Dao Retreats**
 In-person Retreat _somewhere_ in the world.
 
 ## Links
